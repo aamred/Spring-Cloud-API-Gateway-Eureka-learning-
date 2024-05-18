@@ -18,3 +18,5 @@ public class PaymentController {
 		return "payment amount" + price + "is successfull";
 	}
 }
+
+//commit
